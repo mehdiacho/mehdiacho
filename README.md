@@ -6,5 +6,5 @@
 🌱 Learning: Reinforcement Learning, MongoDB, and Flutter  
 📫 Reach me: mehdiacho@gmail.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 [![committers.top badge](https://user-badge.committers.top/botswana/USERNAME.svg)](https://user-badge.committers.top/botswana/USERNAME)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
