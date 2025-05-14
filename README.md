@@ -1,9 +1,9 @@
 # Hi, I'm Mehdi 👋
 
 💻 I'm a software developer and AI enthusiast  
-🚀 Currently working on: [Deliver-E](https://github.com/yourusername/deliver-e)  
+🚀 Currently working on: [Shoppr](https://github.com/mehdiacho/shoppr)  
 🧠 Interests: NLP, RL, Computer Vision  
-🌱 Learning: Reinforcement Learning, MongoDB, and Flutter  
+🌱 Learning: Reinforcement Learning  
 📫 Reach me: mehdiacho@gmail.com
 
 [![committers.top badge](https://user-badge.committers.top/botswana/USERNAME.svg)](https://user-badge.committers.top/botswana/USERNAME)
