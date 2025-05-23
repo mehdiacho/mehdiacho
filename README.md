@@ -8,6 +8,6 @@
 
 
 
-[![committers.top badge](https://user-badge.committers.top/botswana_private/mehdiacho.svg)](https://user-badge.committers.top/botswana_private/mehdiacho)
+[![committers.top badge](https://user-badge.committers.top/botswana/mehdiacho.svg)](https://user-badge.committers.top/botswana/mehdiacho)
 ***
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehdiacho&show_icons=true&theme=radical)
